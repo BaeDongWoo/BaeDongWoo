@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=CCCCFF&height=250&section=header&text=BaeDongWoo👋&fontSize=70&fontColor=000000)
 
-## 안녕하세요, 프론트엔드 개발자 배동우입니다 👋
+## 안녕하세요, 개발자 배동우입니다 👋
 
 React와 TypeScript를 주로 사용하며, 결제·송금 웹앱과 이커머스 백오피스의 개발·운영 경험이 있습니다.  
 사용자에게 필요한 기능을 구현하고, 운영 중 발견한 문제를 개선하는 데 관심이 있습니다.
